@@ -1,3 +1,0 @@
-# dumpster
-
-## Super dumpster
